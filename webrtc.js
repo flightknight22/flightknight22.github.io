@@ -7,7 +7,7 @@ window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecogn
   || window.msSpeechRecognition || window.oSpeechRecognition;
 
 var config = {
-  wssHost: 'wss://ec2-54-236-237-142.compute-1.amazonaws.com'//'wss://glacial-sierra-57472.herokuapp.com/6432'
+  wssHost: 'wss://ec2-54-236-73-173.compute-1.amazonaws.com/'//wss://glacial-sierra-57472.herokuapp.com/6432'
   // wssHost: 'wss://example.com/myWebSocket'
 };
 var localVideoElem = null, 
